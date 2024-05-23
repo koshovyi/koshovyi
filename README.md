@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--<img align="left" width="320" src="media/dmytro_koshovyi.jpg">--> Hi. My name is Dmitry and I've been writing software for over twenty years. Lately I'm starting to think that I'm getting good at something :)
+<!--<img align="left" width="320" src="media/dmytro_koshovyi.jpg">--> Hi. My name is Dmitro and I've been writing software for over twenty years. Lately I'm starting to think that I'm getting good at something :)
 
 My links: [twitter](https://twitter.com/devellloper), [CV](https://koshovyi.com), [blog](https://dev.koshovyi.com), [geek instagram](https://www.instagram.com/devprg/).
 
